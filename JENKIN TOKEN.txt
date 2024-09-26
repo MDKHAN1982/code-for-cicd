@@ -1,5 +1,0 @@
-
-
-git integration with jenkins token 90 days in VM 02 ubuntu machine
-
-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
